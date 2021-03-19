@@ -1,0 +1,20 @@
+- gallery: Saas Brands 2021
+  name: saas-brands-2021
+  description_format: MARKDOWN
+  description: |
+   Typedescriptor sponsored the SaaS Brands 2021 Gallery to include brand identities for popular open source SaaS software that works with .NET.  These brands are used in conjunction with the Typedescriptor Research project to produce a curated list of these SaaS companies and organizations.  Learn more about Typedescriptor Research and the Typedescriptor Services Gallery:
+
+   * [Services Gallery](https://typedescriptor.net/research/services) -
+     An open source gallery of SaaS products and services that work with .NET
+
+   * [Typedescriptor Research](https://typedescriptor.net/research) -
+     Typedescriptor produces research about the .NET ecosystem.  Learn more the Typedescriptor website.
+  sponsor: typedescriptor
+
+- sponsor: Typedescriptor
+  site: https://typedescriptor.net
+
+- scope: DIRECTORY
+  match:
+    - type: Brand
+  introduced_by_gallery: saas-brands-2021
