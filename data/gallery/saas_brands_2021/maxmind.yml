@@ -1,0 +1,20 @@
+- brand: MaxMind
+  links:
+  - href: https://maxmind.com
+    relevance: HOMEPAGE
+  logos:
+  - data: |
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 275 107">
+        <style>.st3{fill:#00aeef}</style>
+        <path d="M19.4 107V90.8l-7 10.6h-.1l-7-10.5V107H0V82.2h5.9l6.6 10.5L19 82.2h5.9V107h-5.5zm42.2 0l-2.3-5.6H48.7l-2.3 5.6h-5.6l10.6-25h5.1l10.6 25h-5.5zM54 88.5l-3.3 8.1h6.6L54 88.5zM98.2 107l-5.6-8.5L87 107h-6.3l8.7-12.6L81 82.2h6.4l5.3 8.1 5.3-8.1h6.3l-8.4 12.1 8.7 12.7h-6.4z" fill="#425968"/>
+        <path fill="none" stroke="#d7dee5" stroke-width=".743" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="7" d="M211.4 55.6l44.3-53 7.4 69.5 9.1-40.2z"/>
+        <path fill="none" stroke="#d7dee5" stroke-width=".743" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="6" d="M211.4 55.6l-44.5-32.9v50l-59.4-32.6z"/>
+        <path class="st3" d="M140.3 107V90.8l-7 10.6h-.1l-7-10.5V107h-5.4V82.2h5.9l6.6 10.5 6.6-10.5h5.9V107h-5.5zm23.8 0V82.2h5.5V107h-5.5zm41.4 0l-12-15.8V107h-5.4V82.2h5.1l11.6 15.3V82.2h5.4V107h-4.7zm32.5 0h-9.7V82.2h9.7c7.9 0 13.2 5.4 13.2 12.3v.1c.1 6.9-5.3 12.4-13.2 12.4zm7.6-12.4c0-4.4-3-7.5-7.5-7.5h-4.3v15h4.3c4.4-.1 7.5-3.1 7.5-7.5zm-81.5-19.2v-5.6h5.5v5.5l-5.5.1z"/>
+        <ellipse transform="rotate(-41.347 107.481 40.117)" class="st3" cx="107.5" cy="40.1" rx="2.7" ry="2.8"/>
+        <circle transform="rotate(-41.355 166.91 22.72)" class="st3" cx="166.9" cy="22.7" r="2.7"/>
+        <path class="st3" d="M213.4 53.7c-1-1.1-2.7-1.3-3.9-.3-1.1 1-1.2 2.7-.2 3.9 1 1.1 2.7 1.2 3.9.2 1.1-.9 1.2-2.6.2-3.8zM257.8.9c-1-1.1-2.7-1.3-3.9-.3-1.1 1-1.2 2.7-.2 3.9 1 1.1 2.7 1.2 3.9.2 1.1-.9 1.2-2.7.2-3.8z"/>
+        <ellipse transform="rotate(-41.351 272.26 31.96)" class="st3" cx="272.3" cy="32" rx="2.7" ry="2.8"/>
+        <circle transform="rotate(-41.347 263.128 72.107)" class="st3" cx="263.1" cy="72.1" r="2.7"/>
+      </svg>
+    onbrand/skip_optimize: true
+    type: LOGO
