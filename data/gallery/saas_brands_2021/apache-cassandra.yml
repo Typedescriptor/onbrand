@@ -1,4 +1,4 @@
-- brand: apache-cassandra
+- brand: Apache Cassandra
   links:
   - href: https://cassandra.apache.org
     relevance: HOMEPAGE
