@@ -1,0 +1,51 @@
+- _type: Schema
+  articles:
+  - name: Brand
+    constructors:
+    - name: brand
+      title: $value
+    attributes:
+    - name: name
+    - name: links
+      type: List[Link]
+    - name: logos
+    - name: title
+      key: true
+    - name: introduced_by_gallery
+  - name: Gallery
+    constructors:
+    - name: gallery
+      title: $value
+    attributes:
+    - name: name
+      key: true
+    - name: title
+    - name: description_format
+      enum:
+      - MARKDOWN
+      - TEXT
+    - name: description
+    - name: sponsor
+  - name: Link
+    attributes:
+    - name: href
+    - name: relevance
+      enum:
+      - HOMEPAGE
+  - name: Logo
+    attributes:
+    - name: data
+    - name: type
+      type: List[String]
+      enum:
+      - LOGO
+      - MASK
+  - name: Sponsor
+    constructors:
+    - name: sponsor
+      title: $value
+    attributes:
+    - name: name
+      key: true
+    - name: site
+    - name: title
