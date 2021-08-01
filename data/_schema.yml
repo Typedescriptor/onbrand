@@ -10,15 +10,14 @@
       type: List[Link]
     - name: logos
     - name: title
-      key: true
     - name: introduced_by_gallery
+    key: title
   - name: Gallery
     constructors:
     - name: gallery
       title: $value
     attributes:
     - name: name
-      key: true
     - name: title
     - name: description_format
       enum:
@@ -26,6 +25,7 @@
       - TEXT
     - name: description
     - name: sponsor
+    key: name
   - name: Link
     attributes:
     - name: href
@@ -46,6 +46,6 @@
       title: $value
     attributes:
     - name: name
-      key: true
     - name: site
     - name: title
+    key: name
